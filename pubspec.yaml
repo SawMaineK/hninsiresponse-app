@@ -69,9 +69,9 @@ flutter:
   # ⚠️ Place flutter_native_splash at the ROOT level (not inside "flutter")
 flutter_native_splash:
   color: "#ffffff"  # Background color (white)
-  image: assets/icon/Hnin-Si.jpg  # Path to your splash screen image
+  image: assets/icon/1024-01.png  # Path to your splash screen image
   android_12:
-    image: assets/icon/Hnin-Si.jpg
+    image: assets/icon/1024-01.png
     icon_background_color: "#ffffff"
 
   android: true

@@ -1,4 +1,4 @@
-package com.example.hninsi_response
+package com.hninsiresponse.mobileapp
 
 import io.flutter.embedding.android.FlutterActivity
 
